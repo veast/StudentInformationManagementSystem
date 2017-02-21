@@ -1,0 +1,2 @@
+# StudentInformationManagementSystem
+一个基于MFC的简单的学生信息管理系统
