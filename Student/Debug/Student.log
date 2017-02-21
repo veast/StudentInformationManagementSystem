@@ -1,0 +1,53 @@
+﻿  StudentSave.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  StudentManagement.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  StudentDlg.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  StudentClass.cpp
+  Student.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  SetSelection.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  SelectionManagement.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  SelectionClass.cpp
+  QueryStudent.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  QuerryCourse.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  Public.cpp
+  DeleteStudent.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  DeleteCourse.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  CourseSave.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  CourseManagement.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  CourseClass.cpp
+  CancelSelection.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  AddStudent.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  AddCourse.cpp
+c:\users\think\desktop\github\student\student\student\resource.h(26): warning C4005: 'IDCANCEL': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10565): note: see previous definition of 'IDCANCEL'
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.rh(1365): warning RC4005: 'IDCANCEL' : redefinition
+  
+  Student.vcxproj -> C:\Users\Think\Desktop\github\Student\Student\Debug\Student.exe
